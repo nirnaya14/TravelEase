@@ -14,7 +14,7 @@ Deploy link :
 - **Frontend:** HTML, CSS, Vanilla JS (served by Express)
 
 ## 📁 Project Structure
-
+//
 TravelEase/
 ├── backend/
 │   ├── server.js          # Main Express server
@@ -26,4 +26,4 @@ TravelEase/
     ├── pages/             # HTML pages
     ├── styles/            # CSS
     └── js/utils.js        # Shared JS utilities
-
+//
