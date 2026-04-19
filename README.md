@@ -16,6 +16,7 @@ Deploy link :
 
 ## 📁 Project Structure
 
+```
 TravelEase/
 ├── backend/
 │   ├── server.js          # Main Express server
@@ -27,14 +28,15 @@ TravelEase/
     ├── pages/             # HTML pages
     ├── styles/            # CSS
     └── js/utils.js        # Shared JS utilities
-
+```
 
 ## 🔑 Demo Credentials
+```
 | Role  | Email | Password |
 |-------|-------|----------|
 | Admin | admin@transport.com | admin123 |
 | User  | user@test.com | user123 |
-
+```
 ## ⚙️ Run Locally
 ```bash
 git clone https://github.com/nirnaya14/TravelEase.git
